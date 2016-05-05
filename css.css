@@ -1,5 +1,4 @@
-@CHARSET "UTF-8";
-body{overflow-x:hidden;width:100%;height:auto;font-family:"闁诲海鏁婚崑濠囧窗濞戙垺瀚冮悗锝庡枟閳锋牠鏌涘☉姗嗗殶闁瑰嚖鎷�", "Microsoft YaHei";}
+
 a:link{
 text-decoration:none;
 }
@@ -13,7 +12,7 @@ a{color:#9f9f9d;font-size:14px;}
 .anzhuo{margin-top:30px;float:left;width:220px;height:60px;background:url(http://ww4.sinaimg.cn/bmiddle/0068TJS4gw1eu60rjrv3aj306601o745.jpg) no-repeat;}
 .app{margin-top:20px;float:left;width:220px;height:60px;background:url(http://ww2.sinaimg.cn/bmiddle/0068TJS4gw1eu60rj3re6j306601owed.jpg) no-repeat;}
 .pc{margin-top:20px;float:left;width:220px;height:60px;background:url(http://ww3.sinaimg.cn/bmiddle/0068TJS4gw1eu60rkfgwwj306601o0sl.jpg) no-repeat;}
-.mva{margin-top:20px;float:left;width:222px;height:394px;background:url(http://ww1.sinaimg.cn/bmiddle/005uJx3ugw1ezu2dkvvn1j30660ayt9m.jpg) no-repeat;}
-.mvb{margin-top:20px;float:left;width:222px;height:394px;background:url(http://ww3.sinaimg.cn/bmiddle/005uJx3ugw1ezu2dl4s5sj30660aymy2.jpg) no-repeat;}
-.mvc{margin-top:20px;float:left;width:222px;height:322px;background:url(http://ww3.sinaimg.cn/bmiddle/005uJx3ujw1ezavukykokj306608ydg7.jpg) no-repeat;}
+.mvc{margin-top:20px;float:left;width:222px;height:162px;background:url(http://ww3.sinaimg.cn/large/005uJx3ugw1f3cdr1183xj306504i74a.jpg) no-repeat;}
+.mvd{margin-top:20px;float:left;width:222px;height:161px;background:url(http://ww2.sinaimg.cn/large/005uJx3ugw1f3cdr0lr32j306504h749.jpg) no-repeat;}
+.mve{margin-top:20px;float:left;width:222px;height:222px;background:url(http://ww3.sinaimg.cn/large/005uJx3ugw1f3cdr1aseyj306604j3yp.jpg) no-repeat;}
 .zi1{margin-top:10px;float:left;text-align:center;width:220px;}
